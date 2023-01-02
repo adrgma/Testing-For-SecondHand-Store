@@ -1,0 +1,79 @@
+{
+	"id": "c3023864-fed7-4111-bdad-8ce4bca26a5d",
+	"name": "Binar Challenge QA Gold Level",
+	"values": [
+		{
+			"key": "base_url",
+			"value": "https://market-final-project.herokuapp.com",
+			"enabled": true
+		},
+		{
+			"key": "access_token",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "location",
+			"value": "Jl. Gan Indah 4 no.99",
+			"enabled": true
+		},
+		{
+			"key": "valid_email",
+			"value": "studentqa4@binar.id",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "valid_password",
+			"value": "studentQA4",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "valid_email_pribadi",
+			"value": "Gussie_Brakus@yahoo.com",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "valid_password_pribadi",
+			"value": "qwerty1234",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "buyer_product_id0",
+			"value": "158",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "buyer_product_id1",
+			"value": "23689",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "buyer_order_id0",
+			"value": "12102",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "product_id0",
+			"value": "27444",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "product_id1",
+			"value": "27446",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2022-11-24T13:43:25.156Z",
+	"_postman_exported_using": "Postman/10.4.5"
+}
